@@ -1,4 +1,3 @@
-import userEvent from "@testing-library/user-event";
 import React, { useState } from "react";
 import Header from "./components/Header";
 import TaskList from "./components/TaskList";
